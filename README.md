@@ -9,14 +9,16 @@ The advantages of the ZZLT LTAR Display over my v2 LTAR Number Display are numer
 - Advanced modes to find player number in hosted games
 - Easier installation, just 4 wires.
 
-Install Video:           
-https://www.youtube.com/watch?v=OvuctqtzjE8
-
 PCB Order Page:             
 https://www.oshpark.com/shared_projects/LcxApEpA
 
 Photo Gallery:          
 https://www.flickr.com/photos/dwest2/albums/72157642762403194
+
+Install Video:           
+https://www.youtube.com/watch?v=OvuctqtzjE8
+
+[![Install Video](https://img.youtube.com/vi/OvuctqtzjE8/0.jpg)](https://www.youtube.com/watch?v=OvuctqtzjE8)
 
 **Usage:**
 
