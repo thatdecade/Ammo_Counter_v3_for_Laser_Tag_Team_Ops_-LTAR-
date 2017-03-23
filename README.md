@@ -1,7 +1,7 @@
 # Ammo Counter for Laser Tag Team Ops (ZZLT)
 This is my third attempt at making an Ammo Counter for the LTAR tagger.  This version connects to the LTAR's headphone jack to receive game data.  It was designed in collaboration with Ryan Bales.
 
-The advantages of the ZZLT LTAR Display over the v2 LTAR Number Display are numerous.
+The advantages of the ZZLT LTAR Display over my v2 LTAR Number Display are numerous.
 - Bar graph indicator to match previous generation LTX displays
 - Leverages the LTAR headphone jack to be compatible with all game modes!!!
 - Lower power requirements
@@ -33,14 +33,14 @@ If you press the button, the mode LED will change, and you'll be in Ammo mode. T
 One more press of the button, and you're in Shields mode! This one's a bit different. The tagger's shield can only be used in 10-second bursts, so the display shows a percentage based on whether you have 10 seconds worth of shield remaining. While your shield is on, this will show you how much time you have left in this burst of shields. When you turn off your shields, it will show you how much time is left until the cooldown of the shields finishes. The cooldown is shown as a "climbing" percentage, starting at 0% and going up to 100%. Once the cooldown finishes, it goes back to the display of whether you have 10 seconds remaining or not.
 
 There is also a context-sensitive display, that will only be shown in certain types of hosted games. While not all of the features of this mode can be active at the same time, nothing in this mode overlaps between game modes.
-	If you're neutralized, the center two LEDs in the vertical bar will be blinking.
-	If you're in a zone game, you're neutralized, and the zone is hostile currently, the top and bottom LED of the vertical LED bar will be blinking.
-	Some taggers might be able to show when you gain a zone point, in which case the 2nd, 3rd, 6th and 7th LEDs of the vertical LED bar will be lit up.
-	If you're in a hunter/hunted game, when the hunting/hunted teams switch, the mode LEDs will show you which team you should be hunting by blinking the mode LED related to that team, and the team you should be avoiding is solid. The Health LED is Team 1, the Ammo LED is Team 2, and the Shield LED is Team 3.
+- If you're neutralized, the center two LEDs in the vertical bar will be blinking.
+- If you're in a zone game, you're neutralized, and the zone is hostile currently, the top and bottom LED of the vertical LED bar will be blinking.
+- Some taggers might be able to show when you gain a zone point, in which case the 2nd, 3rd, 6th and 7th LEDs of the vertical LED bar will be lit up.
+- If you're in a hunter/hunted game, when the hunting/hunted teams switch, the mode LEDs will show you which team you should be hunting by blinking the mode LED related to that team, and the team you should be avoiding is solid. The Health LED is Team 1, the Ammo LED is Team 2, and the Shield LED is Team 3.
 
 When a game ends, whether by you being tagged out, or the time running out, it will go to a "game over" mode that has a few submodes. All of these modes display information in roughly the same way. Like other numerical modes, a blinking LED is "1", and a solid LED is "2". The top three LEDs of the vertical LED bar show the tens place, and the bottom five show the ones place.
-	By default, the "game over" mode shows your player ID. The tens place represents the team, and the ones place represents your player number on that team.
-	Some taggers might be able to show your team and player rank, if in a hosted game. If available, you will be able to press the button and cycle through them. After the player ID, first comes your team rank, followed by your personal rank.
+- By default, the "game over" mode shows your player ID. The tens place represents the team, and the ones place represents your player number on that team.
+- Some taggers might be able to show your team and player rank, if in a hosted game. If available, you will be able to press the button and cycle through them. After the player ID, first comes your team rank, followed by your personal rank.
 
 This covers the basic operation of the LTAR display! There are a few extra modes, however.
 - If you hold the button for a few seconds, all the LEDs will turn on, and the mode will reset to the Health mode. You're now in advanced mode! You can switch back to basic mode the same way.
