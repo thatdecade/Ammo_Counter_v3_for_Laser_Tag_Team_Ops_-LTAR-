@@ -1,0 +1,26 @@
+Mouser Supplier
+
+Quick Link for this project:
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=46401b5804
+
+Board Name     Value       Part Name   Part Number
+-----------------------------------------------------------------
+C1,C2,C4,C5    1uF         Capacitor   77-VJ0603V105MXQPBC
+C3             0.1uF       Capacitor   77-VJ0603Y104JXJPBC
+IC1            3.3V        Voltage Reg 579-MCP1754T-3302ECB
+LED1-8         ORANGE      LED         720-LOR976-PS-1
+LED10-12       GREEN       LED         720-LGR971-KN-1
+R1,R2          133         Resistor    660-RK73H2ATTD1330F
+R3             10k         Resistor    652-CRT0805FZ1002ELF
+R4,R5          100k        Resistor    667-ERJ-6ENF1003V
+R6             15k         Resistor    660-RK73H2ATTD1502F
+R7             6k          Resistor    660-RK73H2ATTD1502F
+R8             100         Resistor    660-RK73H2ATTD1502F
+R12,R15,R17    10k         Resistor    652-CRT0805FZ1002ELF
+S1                         Switch      611-PTS525SM10-LFS
+U$1            Z8F2480-44  Zilog       692-Z8F1680AN020SG
+U$2                        OpAmp       926-LPV358M/NOPB
+U$3                        3.5mm Jack  161-6435-EX
+
+Programmer for Zilog: ZUSBSC00100ZACG
+http://www.mouser.com/Search/ProductDetail.aspx?R=ZUSBSC00100ZACG
